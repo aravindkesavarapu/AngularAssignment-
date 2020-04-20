@@ -1,0 +1,26 @@
+.form-box{
+    width: 380px;
+    height: 300px;
+    position: relative;
+    margin: 6% auto;
+    background-color:whitesmoke;
+    padding: 5px;
+    box-shadow: 0px 0px 10px 10px lightseagreen;
+}
+.contact{
+text-align: center;
+color: rgb(101, 156, 228);
+}
+#id{
+    text-align: justify;
+    position: relative;
+    font-size: medium;
+    color: black;
+    padding: 0px 0px 0px 20px;
+}
+#mail {
+    padding: 0px 0px 0px 80px;
+}
+#numbers{
+    padding: 0px 0px 0px 80px;
+}
